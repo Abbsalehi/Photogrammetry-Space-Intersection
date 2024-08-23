@@ -1,7 +1,9 @@
-Photogrammetry Space Intersection [Note: This repository is currently undergoing improvements. During this time, it may produce incorrect results] 
+Photogrammetry Space Intersection
+
 ==========
 
 ## _Description_ 
+## [Note: This repository is currently undergoing improvements. During this time, it may produce incorrect results] 
 This repository is an implementation of photogrammetry space intersection, getting the position of an object point with given information.
 The necessary information include:  
 + focal length f [mm]  
