@@ -1,10 +1,7 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 from sympy import sin, cos, Matrix, symbols, lambdify
 #from optparse import OptionParser
 import numpy as np
 import pandas as pd
-
 
 np.set_printoptions(suppress=True)  # Disable scientific notation for numpy
 
