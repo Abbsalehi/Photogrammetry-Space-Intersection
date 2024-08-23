@@ -1,4 +1,4 @@
-Photogrammetry Space Intersection
+Photogrammetry Space Intersection [Note: This repository is currently undergoing improvements. During this time, it may produce incorrect results] 
 ==========
 
 ## _Description_ 
